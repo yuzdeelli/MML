@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "updated": "2026-10-04",
+  "licenses": [
+    {
+      "id": "MMV-6F97-WVFF",
+      "name": "Gelistirici (sende)",
+      "issued": "2026-10-04",
+      "expires": null,
+      "device": null,
+      "status": "active",
+      "sig": "ug3bteRyoGC8XxNqKZSmX1EVuF0fA/fznc9KLRPUF3oqV9H7Bva1k3EtdUrP3FFhUvsadBAtklvWwolyyOHdBA=="
+    }
+  ]
+}
