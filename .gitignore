@@ -1,0 +1,8 @@
+# Lisans uretici dizini — bu klasor GitHub'a gider, AMA bu dosyalar ASLA gitmez.
+#
+# issuer.key  = Ed25519 PRIVATE key. Yayina girerse herkes sahte lisans
+#               uretir. Bu dosya yalnizca senin bilgisayarinda/yeedeginde kalmali.
+*.key
+issuer.key
+gh_token*
+*.token
