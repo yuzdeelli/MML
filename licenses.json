@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-04",
+  "updated": "2026-10-05",
   "licenses": [
     {
       "id": "MMV-6F97-WVFF",
@@ -10,6 +10,15 @@
       "device": null,
       "status": "active",
       "sig": "ug3bteRyoGC8XxNqKZSmX1EVuF0fA/fznc9KLRPUF3oqV9H7Bva1k3EtdUrP3FFhUvsadBAtklvWwolyyOHdBA=="
+    },
+    {
+      "id": "MMV-BATC-9L5F",
+      "name": "Asus",
+      "issued": "2026-10-05",
+      "expires": null,
+      "device": "9581-0376-45D4-0C88",
+      "status": "active",
+      "sig": "uKEB4OLOUrWTNe9Kgf8UdD9aiRG9smJCGgl3frqiuZI6q5K8ZwhYTTCGfxLOHx9DVsCFmTyoDc8IZJkwYyfVDw=="
     }
   ]
 }
