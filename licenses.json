@@ -28,6 +28,15 @@
       "device": null,
       "status": "active",
       "sig": "CvGEki+8XKFK0aTch8xca49NYVsd6ez9gIacsjLu2DQ/8cGT6THdCNzQI4BFAGNcHHZgi+SagkwkhDYAUqsmBw=="
+    },
+    {
+      "id": "MMV-SFUB-X6G3",
+      "name": "asus",
+      "issued": "2026-10-09",
+      "expires": null,
+      "device": "A057-5382-1CAF-11E7",
+      "status": "active",
+      "sig": "hXRGixx0/oRj8js8Y+wMIdJq1A/TUx7oDPSAZ0FT4eoV2JD9pM1BIaWWr3VqCvhBlK87QxBa3L/nJrjULF1KDA=="
     }
   ]
 }
