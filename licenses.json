@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-05",
+  "updated": "2026-10-09",
   "licenses": [
     {
       "id": "MMV-6F97-WVFF",
@@ -17,8 +17,17 @@
       "issued": "2026-10-05",
       "expires": null,
       "device": "9581-0376-45D4-0C88",
+      "status": "revoked",
+      "sig": "AHIVD7zB9URbrhYTZiic/j2klGaqwMQi4UyuriAz4XEfymHeD30RCTv5R8uq9x5N8CFyD/VvMGUSpb77mRyACA=="
+    },
+    {
+      "id": "MMV-ZUTM-Q5UD",
+      "name": "asus",
+      "issued": "2026-10-09",
+      "expires": null,
+      "device": null,
       "status": "active",
-      "sig": "uKEB4OLOUrWTNe9Kgf8UdD9aiRG9smJCGgl3frqiuZI6q5K8ZwhYTTCGfxLOHx9DVsCFmTyoDc8IZJkwYyfVDw=="
+      "sig": "CvGEki+8XKFK0aTch8xca49NYVsd6ez9gIacsjLu2DQ/8cGT6THdCNzQI4BFAGNcHHZgi+SagkwkhDYAUqsmBw=="
     }
   ]
 }
