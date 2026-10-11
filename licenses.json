@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-09",
+  "updated": "2026-10-11",
   "licenses": [
     {
       "id": "MMV-6F97-WVFF",
@@ -26,8 +26,8 @@
       "issued": "2026-10-09",
       "expires": null,
       "device": null,
-      "status": "active",
-      "sig": "CvGEki+8XKFK0aTch8xca49NYVsd6ez9gIacsjLu2DQ/8cGT6THdCNzQI4BFAGNcHHZgi+SagkwkhDYAUqsmBw=="
+      "status": "revoked",
+      "sig": "V/x/q0E/DD4lTGcaHNNee3TUkxnD37xe82OXBq53qfGvGSmkuFb1/MxBZVD+5rAQI5uT0AHMnRMrszNekMnoCg=="
     },
     {
       "id": "MMV-SFUB-X6G3",
@@ -35,8 +35,8 @@
       "issued": "2026-10-09",
       "expires": null,
       "device": "A057-5382-1CAF-11E7",
-      "status": "active",
-      "sig": "hXRGixx0/oRj8js8Y+wMIdJq1A/TUx7oDPSAZ0FT4eoV2JD9pM1BIaWWr3VqCvhBlK87QxBa3L/nJrjULF1KDA=="
+      "status": "revoked",
+      "sig": "2ocaVoT0YAVPwg3jgFoWdBUB5Ka8yYTho609zsE8/VNsHcg7jOmZtx6UQG8oh3DZ1TpXEQVaXXF3vNN3PizpAA=="
     }
   ]
 }
